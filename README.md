@@ -28,3 +28,22 @@ This is a simple Google Apps Script tool that generates possible email address p
 
 Feel free to modify and adapt the code according to your needs.
 
+## Demo
+
+
+
+
+https://github.com/wale1454/Google-Apps-Script_Email-Permutator/assets/31905212/62db2a8e-ca34-43bb-96a4-eb7e9ef0af2a
+
+
+---------------
+
+
+Click on the google sheets below to duplicate the file and test it out.
+
+https://docs.google.com/spreadsheets/d/16lPOotiRX477BWUIkE0lMc2x7e07ZxP7bSnDMVqM8CI/edit?usp=sharing
+
+
+
+
+---------------
