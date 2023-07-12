@@ -2,8 +2,23 @@
 
 This is a simple Google Apps Script tool that generates possible email address permutations based on provided name, surname, and company address in a Google Sheets document.
 
+![Screenshot 2023-07-12 at 10 17 36 AM Large](https://github.com/wale1454/Google-Apps-Script_Email-Permutator/assets/31905212/53ccc876-67f1-4b2f-956e-754158dc2d30)
+
 ## Usage
 
+
+---------------
+
+A:
+1. Click on the google sheets below to duplicate the file and replace the name and website. https://docs.google.com/spreadsheets/d/16lPOotiRX477BWUIkE0lMc2x7e07ZxP7bSnDMVqM8CI/edit?usp=sharing
+2. Click on "Extensions" in the menu, then select "Apps Script."
+3. In the Apps Script editor, click on the "Run" button (▶️) in the toolbar to execute the script.
+4. Email permutations will be generated in the adjacent column.
+
+
+---------------
+
+B:
 1. Open a Google Sheets document.
 2. Click on "Extensions" in the menu, then select "Apps Script."
 3. Replace the existing code in the Apps Script editor with 'email_permutator.gs'
@@ -34,15 +49,6 @@ Feel free to modify and adapt the code according to your needs.
 
 
 https://github.com/wale1454/Google-Apps-Script_Email-Permutator/assets/31905212/62db2a8e-ca34-43bb-96a4-eb7e9ef0af2a
-
-
----------------
-
-
-Click on the google sheets below to duplicate the file and test it out.
-
-https://docs.google.com/spreadsheets/d/16lPOotiRX477BWUIkE0lMc2x7e07ZxP7bSnDMVqM8CI/edit?usp=sharing
-
 
 
 
