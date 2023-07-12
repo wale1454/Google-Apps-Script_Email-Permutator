@@ -14,6 +14,8 @@ A:
 2. Click on "Extensions" in the menu, then select "Apps Script."
 3. In the Apps Script editor, click on the "Run" button (▶️) in the toolbar to execute the script.
 4. Email permutations will be generated in the adjacent column.
+5. Highlight the entire column with the email addresses and click on [ Insert -> Smart chips -> Convert to People chips ] in the toolbar.
+6. If the email address is on the list, it'd be highlighted in grey. Cheers!
 
 
 ---------------
@@ -24,8 +26,10 @@ B:
 3. Replace the existing code in the Apps Script editor with 'email_permutator.gs'
 4. Click on save at the top of the screen, in the toolbar section.
 5. Go back to the Google Sheets doc. and Fill in the "Names" and "Company Address" columns in your Google Sheets document.
-6. Then go the the Apps Script editor and click on the "Run" button (▶️) in the toolbar to execute the script.
+6. Then go to the Apps Script editor and click on the "Run" button (▶️) in the toolbar to execute the script.
 7. Email permutations will be generated in the adjacent column.
+8. Highlight the entire column with the email addresses and click on [ Insert -> Smart chips -> Convert to People chips ] in the toolbar.
+9. If the email address is on the list, it'd be highlighted in grey. Cheers!
 
 ## Configuration
 
